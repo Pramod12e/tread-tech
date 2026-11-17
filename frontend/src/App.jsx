@@ -1,9 +1,11 @@
 import './App.css'
+import HomePage from './landing_page/home/HomePage'
+
 function App() {
 
   return (
     <>
-      <h1>hii i am here</h1>
+      <HomePage/>
     </>
   )
 }
