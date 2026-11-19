@@ -6,9 +6,9 @@ function Hero() {
             <div className='row text-center'>
                 <div className="col-12">
                         <img src="media/images/homeHero.png" alt="hero image" 
-                        className='img-fluid mb-5 ml-3 mr-3'/>
+                        className='img-fluid mb-5 ml-3 mr-3' style={{width:"65%"}}/>
 
-                        <h1>Invest in everything</h1>
+                        <h2>Invest in everything</h2>
                         <p>Online platform to invest in stocks, IPOs, derivatives, mutual funds, ETFs, bonds, and more.</p>
 
                         <button style={{width:"20%" , margin: "0 auto"}}
